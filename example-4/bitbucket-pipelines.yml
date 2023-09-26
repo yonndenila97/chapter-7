@@ -1,6 +1,6 @@
 # Configuration file for Bitbucket Pipelines that enables continuous delivery for this project.
 
-image: hashicorp/terraform:0.12.29
+image: hashicorp/terraform:1.5.6
 
 pipelines:
     default:
